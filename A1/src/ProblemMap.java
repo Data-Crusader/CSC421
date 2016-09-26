@@ -84,8 +84,9 @@ public class ProblemMap extends Problem {
 
 		/*
 		Hayden Ford V00794468
+		James Davidson V00######
 		 */
-		System.out.println("\nAssignement #1\nCSC 421\nHayden Ford V00794468\n");
+		System.out.println("\nAssignement #1\nCSC 421\nHayden Ford V00794468\nJames Davidson V00######\n");
 
 		// 1. Uninformed Search Strategies
 		System.out.println("Question 1");
