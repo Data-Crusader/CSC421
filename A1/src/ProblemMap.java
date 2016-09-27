@@ -78,10 +78,6 @@ public class ProblemMap extends Problem {
 
 		Search search  = new Search(problem);
 
-		System.out.println("BreadthFirstTreeSearch:\t\t" + search.BreadthFirstTreeSearch());
-
-		System.out.println("BreadthFirstGraphSearch:\t" + search.BreadthFirstGraphSearch());
-
 		/*
 		Hayden Ford V00794468
 		James Davidson V00######
